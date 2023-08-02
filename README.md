@@ -1,2 +1,1 @@
-# clase-25
-clase 25 pendulo
+# Actividad del alumno 1 C26 1:4
